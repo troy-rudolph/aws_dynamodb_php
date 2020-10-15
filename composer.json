@@ -1,0 +1,14 @@
+{
+    "name": "trudolph/dyn",
+    "description": "experiment with AWS DynamoDB",
+    "type": "project",
+    "require": {
+        "aws/aws-sdk-php": "^3.158"
+    },
+    "authors": [
+        {
+            "name": "Troy Rudolph",
+            "email": "troy.rudolph@alchemysystems.com"
+        }
+    ]
+}
