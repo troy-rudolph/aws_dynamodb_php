@@ -6,7 +6,7 @@ This code does not use a locally installed copy of DynamoDB.  It uses one, via n
 
 If you do use a remote AWS Dynamo DB, put your keys in the credentials.json file located in the config directory.
 
-I used a new version of the SDK than the one the tutorial uss.  The only difference is the way the DynamoDB client object is created.
+I used a newer version of the SDK than the one the tutorial uses.  The only difference is the way the DynamoDB client object is created.
 
 Happy Experimenting!
 
